@@ -12,3 +12,11 @@ header {
   font-weight: 700;
   font-size: 32px;
 }
+
+div {
+  height: 300px;
+  width: 300px;
+  background-color: orange;
+  display: inline-block;
+  margin: 50px;
+}
